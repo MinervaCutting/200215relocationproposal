@@ -112,10 +112,11 @@ Eric Vökel Atocha suites features capacity up to 35 people. As well as Eric Vö
 
 SmartRentalCollection Gran Vía Capital is located right in Madrid's Gran Vía, one of the most important commercial streets, close to the main point of interest such as Puerta del Sol, Plaza Mayor, Palacio Real... The apartments are fully furnished and equipped for you to make the most out of your stay in Madrid, and feel like at home. They also feature a 24/7 Front Desk, a seasonal pool, sauna, solarium on the rooftop, gym and parking.
 
-All guests will be accomodated in the same building. There are two types of apartments, the individual ones and double ones. All guests will have his own room though.
+All guests will be accomodated in the same building. There are three types of apartments, individual, double and triple ones. All guests will have his own room though.
 
-* 30x Apartments, 1 Bedroom and 1 Bathroom (1 guest)
-* 20x Apartments, 2 Bedrooms and 2 Barhrooms (2 guests)
+  * 21x Apartments, 1 Bedroom and 1 Bathroom (1 guest)
+  * 20x Apartments, 2 Bedrooms and 2 Barhrooms (2 guests)
+  * 3x Apartments, 3 Bedrooms and 2 bathrooms (3 guests)
 
 *Each guests will has his own room*
 
@@ -172,7 +173,7 @@ The pictures below are from the ImpactHub Picasso, but ImpactHub Prosperidad wil
 <iframe src="Muelle36/muellefotos.html"  frameborder="0" width="100%" height="900" scrolling="no"></iframe>
 <br>
 
-It is including 50 folding chairs (orange ones in the picture), 5 folding tables (183x75cm) and 3 coat hangers
+It is including WIFI connection, 50 folding chairs (orange ones in the picture), 5 folding tables (183x75cm) and 3 coat hangers
 
 To make this space comfortable and useful we would recommend to rent funiture as the following:
 
@@ -386,14 +387,14 @@ Cigarral Santa Maria is one of the most genuine ones because of its location (is
 
 The views of Toledo are wonderful from this winery and its vineyards are unique.
 
-<img src = "https://cigarralsantamaria.com/wp-content/uploads/2017/06/inicio-vista-de-toledo-desde-vin%CC%83edos-cigarral-santa-mari%CC%81a.jpg" width="100%">
+<img src = "Cigarral/cigarral2.jpg" width="100%">
 
-<img src = "https://cigarralsantamaria.com/wp-content/uploads/2017/06/el-cigaral-vin%CC%83edos-cigarral-santa-mari%CC%81a-toledo-panoramica.jpg" width="100%">
+<img src = "Cigarral/cigarral1.jpg" width="100%">
 
 We would like to suggest a visit to the winery and wine tasting before dinner, this visit has a duration of 1 hour.
 Then, after tasting 1 glass of wine and some cheese the group will go inside their beautiful dinning room
 
-<img src = "https://cigarralsantamaria.com/wp-content/uploads/2017/06/espacios-salo%CC%81n-almuerzo-decoracio%CC%81nvin%CC%83edos-cigarral-santa-mari%CC%81a-toledo.jpg" width="100%">
+<img src = "Cigarral/cigarral3.jpg" width="100%">
 
 
 As Toledo is a beautiful medieval city we would highly recommend to combine a guided visit to the city with the winery visit and dinner.
