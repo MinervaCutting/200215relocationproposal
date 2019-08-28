@@ -32,16 +32,140 @@ library(knitr)
 library(timevis)
 
 ```
-## Map 
+
+<br>
+<br>
+
+# Map 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=15zJcGckD6qgiW1Dy3dSboezB4NcnhMis&hl=es" width="100%" height="500"></iframe>
 
 <hr>
 
-## Suggested Apartments {.tabset .tabset-fade .tabset-pills}
+# _**Apartament Options**_
 
-### _**Eric Vökel boutique apartments**_
- 
+## Gran Via Capital
+
+SmartRentalCollection Gran Vía Capital is located right in Madrid's Gran Vía, one of the most important commercial streets, close to the main point of interest such as Puerta del Sol, Plaza Mayor, Palacio Real... 
+
+The apartments are fully furnished and equipped for you to make the most out of your stay in Madrid, and feel like at home. They also feature a 24/7 Front Desk, a seasonal pool (Open from April to October ), sauna, solarium on the rooftop, gym and parking.
+
+**Sauna and gym pictures**
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_instalaciones/1/or-dsc-3990478.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_instalaciones/1/or-dsc-3985741.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_instalaciones/1/or-dsc-3988100.jpg" width="100%">
+
+**Rooftop pictures**
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_instalaciones/2/or-dsc-5353276.jpg" width="100%">
+
+<img src = "rooftop/gran-via-capital-1.jpg" width="100%">
+
+
+All guests will be accomodated in the same building. There are three types of apartments, individual, double and triple ones. All guests will have his own room though.
+
+  * 21x Apartments, 1 Bedroom and 1 Bathroom (1 guest)
+  * 20x Apartments, 2 Bedrooms and 2 Barhrooms (2 guests)
+  * 3x Apartments, 3 Bedrooms and 2 bathrooms (3 guests)
+
+*Each guests will has his own room*
+
+
+    Services:
+
+    Air Conditioning
+    Free bathroom amenities
+    Private bathroom with shower
+    Blender
+    Coffee machine
+    Safety box
+    Heating
+    Fridge
+    Kettle
+    Washing machine
+    Microwave
+    Iron
+    Hairdryer
+    Sofa-bed
+    Hardwood floor
+    Phone
+    Towels and linen
+    Toaster
+    Flat screen TV with international channels
+    WiFi
+    
+    Cleaning service included: once per week, they change the bed-sheets and the towels each week.
+    
+Smoking is prohibited and pets are not allowed
+
+There is no bar or restaurant in the building.
+
+
+### Types of apartments {.tabset .tabset-fade}
+
+#### 1 Bedroom
+
+These apartments have a bedroom with a double bed, a fully equipperd kitchen, bathroom and a living room with a double sofa-bed. All of them have a distinguished deciration but in different styles.
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_infoapartamentos/1/apto1dormitorio2547.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_infoapartamentos/1/apto1dormitorio7800.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_infoapartamentos/1/apto1dormitorio5242.jpg.jpg" width="100%">
+
+<br>
+<hr>
+
+#### 2 Bedrooms
+
+These two bedroom apartments have two bedrooms (either with two double beds or one double bed and two single beds), a fully equipped kitchen, two bathrooms and a double sofa-bed.
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_infoapartamentos/1/apartamento2dormitorios3543.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_infoapartamentos/1/apartamento2dormitorios7267.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_infoapartamentos/1/apartamento2dormitorios6885.jpg" width="100%">
+
+<br>
+<hr>
+
+#### 3 Bedrooms
+
+These three bedroom apartments have three rooms (two with a double bed, and one with two single beds), a fully equipped kitchen, two bathrooms and a double sofa-bed.
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_infoapartamentos/1/apto3dormitorios3885.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_infoapartamentos/1/apto3dormitorios5288.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_infoapartamentos/1/apto3dormitorios7703.jpg" width="100%">
+
+<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_infoapartamentos/1/apto3dormitorios10746.jpg" width="100%">
+<br>
+<hr>
+
+### Terms and conditions
+
+PAYMENT CONDITIONS:
+
+  * 40% to confirm the booking
+  * 60% 60 days before the group arrival
+  
+TOTAL CANCELLATION:
+
+  * From the confirmation to 61 days prior the group arrival - first deposit lost
+  * From 60 days prior the group arrival - 100% lost.
+  
+*They say that there are no partial cancellations - we are still negotiating better conditions...*
+
+<br>
+<br>
+<hr>
+
+## Eric Vökel Apartments
+
 Eric Vökel Madrid suites and Eric vökel Atocha suites are both two apartments buildings located in Madrid. These apartments belongs to a  company hosted in different European countries. They feature a high standing apartment complex.
 All 70 guests will be distributed in both buildings, which are 20 minutes by walk/ 10 minutes by car each other. 
 
@@ -108,40 +232,71 @@ Eric Vökel Atocha suites features capacity up to 35 people. As well as Eric Vö
 
 <img src = "https://media-cdn.tripadvisor.com/media/photo-s/05/20/f9/d5/eric-vokel-boutique-apartments.jpg" width="100%">
 
-### _**Smart Collection Gran Via Capital**_
 
-SmartRentalCollection Gran Vía Capital is located right in Madrid's Gran Vía, one of the most important commercial streets, close to the main point of interest such as Puerta del Sol, Plaza Mayor, Palacio Real... The apartments are fully furnished and equipped for you to make the most out of your stay in Madrid, and feel like at home. They also feature a 24/7 Front Desk, a seasonal pool, sauna, solarium on the rooftop, gym and parking.
+### Terms and conditions
 
-All guests will be accomodated in the same building. There are three types of apartments, individual, double and triple ones. All guests will have his own room though.
+PAYMENT CONDITIONS:
 
-  * 21x Apartments, 1 Bedroom and 1 Bathroom (1 guest)
-  * 20x Apartments, 2 Bedrooms and 2 Barhrooms (2 guests)
-  * 3x Apartments, 3 Bedrooms and 2 bathrooms (3 guests)
+  * 50% to confirm the booking
+  * 25% to be paid before December 3rd, 2019
+  * 25% to be paid before January 10th, 2020
+  
+TOTAL/PARTIAL CANCELLATION:
 
-*Each guests will has his own room*
+  * From the confirmation until December 2nd - you can cancel a 50% of the confirmed services.
+  * From December 3rd, 2019 to January 9th, 2020 - you can cancel a 25% of the confirmed services.
+  * From January 10th - Eric Vokel will charge the 100% of the confirmed services.
 
-<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-capitalcarrusel4281.jpg" width="100%">
 
-<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-capitalcarrusel2584.jpg" width="100%">
+# Working Spaces {.tabset .tabset-fade .tabset-pills}
 
-<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-3dormitorios902.jpg" width="100%">
+## Utopicus {.tabset .tabset-fade}
 
-<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-apto1dormitorioconterraza5210.jpg" width="100%">
+Utopicus is a company that has different nice and modern buildings that offer a lot of services to work confortable.
 
-<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-apartamento2dormitorios5600.jpg" width="100%">
+  * Prime spaces with reception, surveillance and latest technologies.
+  * Workstations fix with furniture in a private office.
+  * 24x7 access.
+  * High availability Internet by Fiber optic and advanced WiFi.
+  * Possibility of installing equipment in dedicated rack.
+  * Liability insurance in common areas.
+  * Tax residence.
+  * Use of common areas.
+  * Networking and weekly programming of contents: breakfasts, afterworks...
+  * Organic coffee and tea & purified water. Fresh fruit every morning.
+  * Reception of courier and parcel service.
+  * 140 hours use meeting rooms
 
-<img src = "https://www.smartrentalcollection.com/content/imgsxml/galerias/panel_galeria/1/big-duplex3dormitorios01292.jpg" width="100%">
+### Gran Via
 
-<br>
 
-## Working Spaces {.tabset .tabset-fade .tabset-pills}
+This building is located 10 minutes from Smart Collection aparments but **guests would be separated in different offices in different floors**. They will be all in the same building shared the common spaces but in this co-working the can't have a whole working space to fit the 70 pax.
 
-We are suggesting different venues but all of them are following the same idea: We think that what the group needs is a open and flexible space with a kitchen, toilets, natural lighting and wifi. Then, in some of them we will need to rent the furnuture acording with your client needs and preferences.
 
-Following you will see some options, you can see the location in the map above and the rates on the budget below:
-<br>
+<img src = "Utopicus Gran Via/utopicusgv1.png" width="100%">
 
-### Impacthub Prosperidad
+Sample Floor plan 
+
+
+<img src = "Utopicus Gran Via/utopicusgv2.png" width="100%">
+<img src = "Utopicus Gran Via/utopicusgv3.png" width="100%">
+
+
+### Jose Abascal
+
+This is a new building that the company will open in December 2019. 
+
+Our group will be in the same floor. 
+
+<img src = "Utopicus Jose Abascal/utopicusJS1.png" width="100%">
+
+Sample Floor plan
+
+<img src = "Utopicus Jose Abascal/utopicusJS2.png" width="100%">
+<img src = "Utopicus Jose Abascal/utopicusJS3.png" width="100%">
+
+
+## Impacthub Prosperidad
 
 Impacthub is a co-working company, they have 5 buildings in Madrid and in January 2020 they will open a new one: **ImpactHub Prosperidad**
 
@@ -168,7 +323,7 @@ The pictures below are from the ImpactHub Picasso, but ImpactHub Prosperidad wil
 <br>
 
 
-### Espacio Muelle 36
+## Espacio Muelle 36
 
 <iframe src="Muelle36/muellefotos.html"  frameborder="0" width="100%" height="900" scrolling="no"></iframe>
 <br>
@@ -191,21 +346,86 @@ To make this space comfortable and useful we would recommend to rent funiture as
 <img src = "alquilermuebles/mueble5.png" width="200"> <img src = "alquilermuebles/mueble3.png" width="350" align ="right">
 
 <br>
-<br>
+
+
+
+## Palacio Santa Barbara
+
+This venue is located just 15 minutes walking from Gran Via Capital and it is a small palace from the XIX century.
+It has a in total 450m2 distributed in 6 rooms all of them with natural light.
+
+On the ground floor has 4 rooms - between 35 and 41m2 and the first floor has 3 more: the main room with 85m2 and 2 smaller ones of 35 and 41m2.  
+
+In spite of nit having a big room for the whole group, they can use all the first floor as office and the ground floor could be 3 meeting rooms + 1 kitchen/ chillout area.
+
+It also has a big garden, the whole building would be in exclusive for our group but they opening hours would be from 8.00h to 00.00h
+
+*We would need to rent or buy all the furtinure*
+
+<img src = "Palacio Santa Barbara/plantapalaciosb1.png" width="100%"> 
+
+<img src = "Palacio Santa Barbara/plantapalaciosb2.png" width="100%"> 
+
+<img src = "https://static.wixstatic.com/media/687338_49e6156a999d4ec5a766d2d91ccc0ffe~mv2_d_5184_3456_s_4_2.jpg/v1/fill/w_1092,h_728,al_c,q_90,usm_0.66_1.00_0.01/687338_49e6156a999d4ec5a766d2d91ccc0ffe~mv2_d_5184_3456_s_4_2.webp" width="100%"> 
+
+<img src = "https://static.wixstatic.com/media/687338_b6b5d9f3b3bf47d7aba1df675578edbd~mv2_d_5184_3456_s_4_2.jpg/v1/fill/w_1092,h_728,al_c,q_90,usm_0.66_1.00_0.01/687338_b6b5d9f3b3bf47d7aba1df675578edbd~mv2_d_5184_3456_s_4_2.webp" width="100%"> 
+
+<img src = "https://static.wixstatic.com/media/687338_704f0bdd89824e068a6ef2909d2582be~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_90/687338_704f0bdd89824e068a6ef2909d2582be~mv2.webp" width="100%"> 
+
 <br>
 
+
+## La Grada
+
+La Grada is a very flexible venue. It has a total of 450m2 - 1 big room of 255m2 that can be split in 2 or in 3 with accoustic courtines + a smaller area next to the kitchen that can be used as chill-out area.
+
+Separate froom the main room there is another 50m2 room that can be used as meeting room.
+
+The main room has daylight that comes from the big skylights.
+
+*We would need to rent or buy all the furtinure*
+
+<img src = "La grada/lagrada1.png" width="100%"> 
+
+<img src = "La grada/lagrada2.png" width="100%"> 
+
+<img src = "La grada/lagrada3.png" width="100%"> 
+
+<img src = "La grada/lagrada4.png" width="100%"> 
+
+<br>
+
+
+## Espacio Harley Las ventas
+
+This is a huge venue divided in twoo floors with 1000m2 per floor.
+In the ground floor we can find 3 rooms and a cafeteria and in the upper room we find the main space (Harley room), Hall, kitchen, backstage room and toiltes
+
+<img src = "harleylasventas/harley1.png" width="100%"> 
+
+<img src = "harleylasventas/harley2.png" width="100%"> 
+
+<img src = "harleylasventas/harley3.png" width="100%"> 
+
+<img src = "harleylasventas/harley4.png" width="100%"> 
+
+<img src = "harleylasventas/harley5.png" width="100%"> 
+
+<img src = "harleylasventas/harley6.png" width="100%"> 
+
+*We would need to rent or buy all the furtinure*
 
 
 ****
 
 
-## Restaurant Options {.tabset .tabset-fade .tabset-pills}
+# Restaurant Options {.tabset .tabset-fade .tabset-pills}
 
-### Ana La Santa {.tabset .tabset-fade }
+## Ana La Santa {.tabset .tabset-fade }
 
 <iframe src="AnaLaSanta/AnaLaSanta.html"  frameborder="0" width="100%" height="1050" scrolling="no"></iframe>
 
-#### 3 courses menu n1
+### 3 courses menu n1
 
     STARTERS (To share)
     Iberian ham “croquetas”
@@ -234,7 +454,7 @@ To make this space comfortable and useful we would recommend to rent funiture as
     
 <br>
     
-#### Tapas menu 1
+### Tapas menu 1
 
     (To share)
     Iberian ham “croquetas”
@@ -265,11 +485,11 @@ To make this space comfortable and useful we would recommend to rent funiture as
 
 
 
-### La Mucca del Prado {.tabset .tabset-fade }
+## La Mucca del Prado {.tabset .tabset-fade }
 
 <iframe src="LaMuccadePrado/LaMuccadePrado.html"  frameborder="0" width="100%" height="1050" scrolling="no"></iframe>
 
-#### Tapas menu 1
+### Tapas menu 1
 
     To Share
     Ham croquettes (1 unit per pax)
@@ -290,7 +510,7 @@ To make this space comfortable and useful we would recommend to rent funiture as
     Rates per person: 43€ VAT inc
     
     
-#### Tapas menu 2
+### Tapas menu 2
 
     To Share
     Cheese and Cold cuts
@@ -315,12 +535,12 @@ To make this space comfortable and useful we would recommend to rent funiture as
 <br>
 
 
-### Habanera {.tabset .tabset-fade }
+## Habanera {.tabset .tabset-fade }
 
 <iframe src="Habanera/Habanera.html"  frameborder="0" width="100%" height="900" scrolling="no"></iframe>
 
 
-#### 3 courses menu A
+### 3 courses menu A
 
     Starters to share
     Creamy Iberian ham and fresh milk croquettes
@@ -347,7 +567,7 @@ To make this space comfortable and useful we would recommend to rent funiture as
 
 
 
-#### Coktail menu 1
+### Coktail menu 1
 
     Standing cocktail:
     Seasonal mushrooms cream and parmesan foam
@@ -375,7 +595,7 @@ To make this space comfortable and useful we would recommend to rent funiture as
 <br>
 
 
-## Outside Madrid Dinner 
+# Outside Madrid Dinner 
 
 **Cigarral Santa Maria** 
 
@@ -423,9 +643,9 @@ The organization would be:
 
 ****
 
-## Activity Suggestions {.tabset .tabset-fade .tabset-pills}
+# Activity Suggestions {.tabset .tabset-fade .tabset-pills}
 
-### iPad Treasure-Hunt
+## iPad Treasure-Hunt
 
 We will create this fully-customized activity following the client's preferences and needs. We will design a website that will include the instructions and the challenges that each team will have to pass.
 We will split them in 10 teams and each team will need to choose a captain that will be in charge of the strategy.
@@ -439,7 +659,7 @@ It can be organized during the morning or the afternoon, depending on the client
 <br>
 
 
-### Tapas Tour
+## Tapas Tour
 
 This tour will be a walking tour though the city centre combining the architecture and history explanations with the gastronomy tasting. We will split guests in two groups and each group will do the tour with one English speaking guide.
 We will suggest two tapas bars and both groups will go to them and taste the same tapas but in different turns, they will switch the order.
@@ -453,7 +673,7 @@ This activity will have a duration of 4h including the 2 stops and it can be org
 
 <br>
 
-### Amazonia Madrid
+## Amazonia Madrid
 
 Amazonia is a multiadventure park located in the middle of the nature but just one hour from Madrid.
 
@@ -474,7 +694,7 @@ There is the possibility to have a picnic lunch in the same facilities.
 
 <br>
 
-### Carlos Saiz Karting
+## Carlos Saiz Karting
 
 A Kating race is a very funny team-bulding activity. In Madrid we can find two karting facilities that belong to Carlos Sainz, one in Las Rozas and the other in Madrid, but we would need bus transportation to go to any of them.
 
@@ -502,15 +722,15 @@ Guests will enjoy of a non-alcoholic open bar during the activity.
 <br>
 
 
-## Budget 
+# Budget 
 
-<iframe src="https://200215relocationbudget.netlify.com"  frameborder="0" width="100%" height="2400" scrolling="no"></iframe>
+<iframe src="https://200215relocationbudget.netlify.com"  frameborder="0" width="100%" height="3500" scrolling="no"></iframe>
 
 <br>
 
 *****
 
-## Terms & Conditions
+# Terms & Conditions
 
   * Rates valid for 2020.
   
